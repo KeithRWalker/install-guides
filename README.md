@@ -1,4 +1,4 @@
-# install-guides WIP
+# Install-Guides
 Just a place to save some instructions from class on installs/setups for projects
 
 # React Install (Bootstrap/Firebase/scss/eslint(airbnb))
